@@ -2,6 +2,8 @@
 
 **YAML** which stands for **YAML Ain't Markup Language** is a human-readable data serialization language primarily used for configuration files and data exchange in modern applications. It emphasizes clean, indentation-based syntax makes it easy to read, write, and maintain, particularly for developers and system administrators. YAML builds upon the structures and concepts found in XML, HTML, Perl, Python, C and other programming languages.
 
+YAML was first proposed by **Clark Evans** in 2001 and designed it together with **Brian Ingerson**, and **Oren Ben-Kiki** and was originally abbreviated as **Yet Another Markup Language** but it was later backronymed (recursive acronym) to **YAML Ain't Markup Language** to emphasize that YAML is data-oriented but not really a markup language.
+
 **YAML** is a more human-readable and concise data serialization language compared to **XML** _(eXtensible Markup Language)_ and **JSON** _(Java Script Object Notation)_. While XML is a markup language developed in early 1990s, JSON and YAML are both modern data formats, with YAML being a superset of JSON. This means any valid JSON file can also be read by a YAML parser, giving it additional features for readability and complexity.
 
 <br/>
